@@ -1,0 +1,154 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    background-color: #181818;
+}
+
+#main_body {
+    background-color: #181818;
+    padding-top: 60px;
+    padding-left: 130px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    height: 100%;
+    color: white;
+}
+
+
+#title {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+#video_area {
+    color: white;
+    font-size: 20px;
+}
+
+#video_area a {
+    color: gray;
+    font-size: 20px;
+    margin: 0;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+#video_area a:hover {
+    color: white;
+}
+
+.clear {
+    clear: both;
+}
+
+#player {
+    color: white;
+    margin-left: 50px;
+    height: 100%;
+}
+
+#video_player {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#video_title {
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+#user_name {
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+#date {
+    margin-top: -10px;
+    font-size: large;
+    margin-bottom: 15px;
+}
+
+#line {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#line1 {
+    width: 70%;
+    margin-left: 0;
+}
+
+#comment_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin-bottom: 25px;
+}
+
+#c1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#c2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: -15px;
+    padding-left: 15px;
+}
+
+#c3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15px;
+}
+
+#profile_portion {
+    color: white;
+    margin-left: 20px;
+    height: 100%;
+    padding-top: 15px;
+}
+
+#option {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+#option a{
+    color: gray;
+    font-size: x-large;
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#option a:hover {
+    color: white;
+}
+
+#user_p {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#name {
+    color: rgb(172, 166, 166);
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+#heading {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
